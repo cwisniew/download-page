@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-gh-pages-test/static/js/main.13e797e5.chunk.js",
-    "main.js.map": "/react-gh-pages-test/static/js/main.13e797e5.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages-test/static/js/runtime~main.7248b2a4.js",
-    "runtime~main.js.map": "/react-gh-pages-test/static/js/runtime~main.7248b2a4.js.map",
-    "static/js/2.e280d7b9.chunk.js": "/react-gh-pages-test/static/js/2.e280d7b9.chunk.js",
-    "static/js/2.e280d7b9.chunk.js.map": "/react-gh-pages-test/static/js/2.e280d7b9.chunk.js.map",
-    "index.html": "/react-gh-pages-test/index.html",
-    "precache-manifest.23735b53f82db03da58453598791bca0.js": "/react-gh-pages-test/precache-manifest.23735b53f82db03da58453598791bca0.js",
-    "service-worker.js": "/react-gh-pages-test/service-worker.js"
+    "main.js": "/download-page/static/js/main.f0f6e4a1.chunk.js",
+    "main.js.map": "/download-page/static/js/main.f0f6e4a1.chunk.js.map",
+    "runtime~main.js": "/download-page/static/js/runtime~main.44fbee16.js",
+    "runtime~main.js.map": "/download-page/static/js/runtime~main.44fbee16.js.map",
+    "static/js/2.f3e870e9.chunk.js": "/download-page/static/js/2.f3e870e9.chunk.js",
+    "static/js/2.f3e870e9.chunk.js.map": "/download-page/static/js/2.f3e870e9.chunk.js.map",
+    "index.html": "/download-page/index.html",
+    "precache-manifest.2a25b4bc6590231ef039bf90175d1241.js": "/download-page/precache-manifest.2a25b4bc6590231ef039bf90175d1241.js",
+    "service-worker.js": "/download-page/service-worker.js"
   }
 }
